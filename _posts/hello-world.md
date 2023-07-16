@@ -9,6 +9,9 @@ author:
   picture: "/assets/blog/authors/shu-t.png"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
+tags:
+  - "tag1"
+  - "tag2"
 ---
 
 # 見出し
