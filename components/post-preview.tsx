@@ -39,7 +39,6 @@ const PostPreview = ({
           </div>
         </div>
       </div>
-      <Avatar name={author.name} picture={author.picture} />
     </div>
   )
 }
