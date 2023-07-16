@@ -6,7 +6,7 @@ coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2023-07-16"
 author:
   name: shu-t
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/shu-t.png"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
